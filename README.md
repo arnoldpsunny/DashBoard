@@ -30,7 +30,7 @@ The project contains  different  dashboard which hold the information about the 
 
 These dashboards show the concise view in all these sectors and the use of slicers have also helped in viewing the details much more effectively.
 
-The dashboard is made of different types og graphs, tables,maps etc to get every bit of data to the person viewing these.
+The dashboard is made of different types of graphs, tables,maps etc to get every bit of data to the person viewing these.
 
 
 ##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> **Analysis**
@@ -69,10 +69,29 @@ The dashboard is made of different types og graphs, tables,maps etc to get every
   
     
 ## <img src="https://img.icons8.com/dusk/48/000000/ios-screenshot.png"/> Screenshots
-    
+
+<br />
+--A Sales Overview Dashboard in Power BI is a comprehensive visual representation of key sales performance indicators and metrics for a business. It provides a consolidated view of sales data, allowing stakeholders to monitor and analyze sales performance in real-time or near-real-time   
+
    ![image](https://user-images.githubusercontent.com/82110840/235926392-b4057bc0-815d-4c23-8f98-33646d0a8fa1.png)
+   
+<br />
+--  A Customer Details Dashboard in Power BI provides a comprehensive view of customer data and insights to better understand customer behavior, preferences, and interactions with a business. It enables stakeholders to gain valuable information about customers, segments, and trends, empowering data-driven decision-making and targeted marketing strategies
+
+<br />
    ![image](https://user-images.githubusercontent.com/82110840/235926534-90aeca2e-949c-4ebf-9f92-24674e7a6f0d.png)
+-- This dashboard typically includes various visualizations and charts that display details about individual products, product categories, and their performance..
+
+
 ![image](https://user-images.githubusercontent.com/82110840/235926630-420be851-c3ce-4560-86b9-d5e012bfd7ff.png)
 
 ## Conclusion
 The superstore dashboard project using Power BI showcase the data of the orders done in the year 2019 and 2020 using different graphs and various other visualization tools.
+
+Different types of graphs included with slicers which helps the user to go through the details and understand the insights much better.With its interactive and customizable features, the dashboard enables users to gain valuable insights into sales performance, inventory management, customer behavior, and other critical aspects of the business
+
+By leveraging the power of Power BI, the Superstore Dashboard empowers decision-makers to make data-driven decisions, improve operational efficiency, and drive business growth.
+
+The dashboard provides a comprehensive and visually appealing overview of key performance indicators (KPIs) and metrics related to the Superstore's operations, sales, and customer behavior.
+
+
