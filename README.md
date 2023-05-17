@@ -17,6 +17,22 @@ or a collection of cloud-based and on-premises hybrid data warehouses.
 <p align="center"><img src="https://i0.wp.com/sqlitybi.com/wp-content/uploads/2019/11/use-case-example2.gif?resize=937%2C759&ssl=1" width="600" ></p>
 
 
+## Overview
+
+The superstore dataset consists of the data of Orders and return table:
+
+The orders table consists of the data of all the orders which were ordered in US in the year 2019-2020 with all the details ranging from the date of order,
+mode of shipment,customer details,products etc
+
+The returns table consists of the orders which were returned with the orderid as the primary key.
+
+The project contains  different  dashboard which hold the information about the sales overtview, customer and products overview.
+
+These dashboards show the concise view in all these sectors and the use of slicers have also helped in viewing the details much more effectively.
+
+The dashboard is made of different types og graphs, tables,maps etc to get every bit of data to the person viewing these.
+
+
 ##  <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif  width="48" height="48"> **Analysis**
 
     o	KPI’s :-
@@ -48,9 +64,15 @@ or a collection of cloud-based and on-premises hybrid data warehouses.
     
     6. Created a interactive and dynamic dashboard at the end.
     
+  
+  
+  
+    
 ## <img src="https://img.icons8.com/dusk/48/000000/ios-screenshot.png"/> Screenshots
     
    ![image](https://user-images.githubusercontent.com/82110840/235926392-b4057bc0-815d-4c23-8f98-33646d0a8fa1.png)
    ![image](https://user-images.githubusercontent.com/82110840/235926534-90aeca2e-949c-4ebf-9f92-24674e7a6f0d.png)
 ![image](https://user-images.githubusercontent.com/82110840/235926630-420be851-c3ce-4560-86b9-d5e012bfd7ff.png)
 
+## Conclusion
+The superstore dashboard project using Power BI showcase the data of the orders done in the year 2019 and 2020 using different graphs and various other visualization tools.
