@@ -70,17 +70,18 @@ The dashboard is made of different types of graphs, tables,maps etc to get every
     
 ## <img src="https://img.icons8.com/dusk/48/000000/ios-screenshot.png"/> Screenshots
 
-<br />
---A Sales Overview Dashboard in Power BI is a comprehensive visual representation of key sales performance indicators and metrics for a business. It provides a consolidated view of sales data, allowing stakeholders to monitor and analyze sales performance in real-time or near-real-time   
+
+**--A Sales Overview Dashboard in Power BI is a comprehensive visual representation of key sales performance indicators and metrics for a business. It provides a consolidated view of sales data, allowing stakeholders to monitor and analyze sales performance in real-time or near-real-time**   
 
    ![image](https://user-images.githubusercontent.com/82110840/235926392-b4057bc0-815d-4c23-8f98-33646d0a8fa1.png)
    
-<br />
---  A Customer Details Dashboard in Power BI provides a comprehensive view of customer data and insights to better understand customer behavior, preferences, and interactions with a business. It enables stakeholders to gain valuable information about customers, segments, and trends, empowering data-driven decision-making and targeted marketing strategies
 
-<br />
+**--  A Customer Details Dashboard in Power BI provides a comprehensive view of customer data and insights to better understand customer behavior, preferences, and interactions with a business. It enables stakeholders to gain valuable information about customers, segments, and trends, empowering data-driven decision-making and targeted marketing strategies.**
+
+
    ![image](https://user-images.githubusercontent.com/82110840/235926534-90aeca2e-949c-4ebf-9f92-24674e7a6f0d.png)
--- This dashboard typically includes various visualizations and charts that display details about individual products, product categories, and their performance..
+
+**-- This dashboard typically includes various visualizations and charts that display details about individual products, product categories, and their performance.**
 
 
 ![image](https://user-images.githubusercontent.com/82110840/235926630-420be851-c3ce-4560-86b9-d5e012bfd7ff.png)
